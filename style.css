@@ -1,0 +1,34 @@
+h1 span{
+
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration:underline;
+    
+
+}
+
+img{
+    width: 300px;
+    border-radius: 300px;
+}
+
+.test{
+    color: #e84393;
+}
+
+.para{
+    
+background-color:#ffda79;
+}
+
+h2{
+    font-family: "Playwrite GB S", cursive;
+}
+
+    
